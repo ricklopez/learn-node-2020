@@ -1,4 +1,4 @@
 ### Lessions
 
 #### Debugging 
-`npm run lab:debugging`
+`node inspect debugging.js`
